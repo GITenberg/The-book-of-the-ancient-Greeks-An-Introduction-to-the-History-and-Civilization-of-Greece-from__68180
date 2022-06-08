@@ -1,0 +1,27 @@
+_repo: The-book-of-the-ancient-Greeks-An-Introduction-to-the-History-and-Civilization-of-Greece-from__68180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mills, Dorothy
+    gutenberg_agent_id: '54642'
+    url: http://www.gutenberg.org/2009/agents/54642
+description: ''
+gutenberg_issued: '2022-05-26'
+identifiers:
+  gutenberg: '68180'
+language: en
+pgterms:marc904: https://archive.org/details/the-book-of-the-ancient-greeks
+pgterms:marc905: 20220424104935mills
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :G. P. Putnam's Sons,1925,reprint 1931.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The book of the ancient Greeks: An Introduction to the History and Civilization
+  of Greece from the Coming of the Greeks to the Conquest of Corinth by Rome in 146
+  B.C.'
+url: http://www.gutenberg.org/ebooks/68180
